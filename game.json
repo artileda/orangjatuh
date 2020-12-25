@@ -1887,11 +1887,15 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "CentreCamera"
+                    "value": "FixCamera"
                   },
                   "parameters": [
                     "",
-                    "Scroex",
+                    "Player",
+                    "-190",
+                    "0",
+                    "845",
+                    "600",
                     "",
                     "",
                     ""
@@ -1906,9 +1910,9 @@
                   "parameters": [
                     "BG1",
                     "=",
-                    "JavascriptEnemyy.X()",
+                    "JavascriptEnemyy.X() - 150\n",
                     "=",
-                    "CameraY(\"\",0) - 90"
+                    "Player.Y() - 300"
                   ],
                   "subInstructions": []
                 },
@@ -3179,7 +3183,7 @@
                   },
                   "parameters": [
                     "",
-                    "RandomInRange(80,Player.Y())",
+                    "RandomInRange(70,GlobalVariable(score) / 2)",
                     "\"xx\""
                   ],
                   "subInstructions": []
