@@ -1168,6 +1168,55 @@
         "metadata": "",
         "name": "female-scream.wav",
         "userAdded": true
+      },
+      {
+        "file": "heli.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "heli.wav",
+        "userAdded": true
+      },
+      {
+        "file": "Scream+Female+2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Scream+Female+2.wav",
+        "userAdded": true
+      },
+      {
+        "file": "sound_pembuka.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sound_pembuka.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "sound1.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sound1.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "fosil,batu-scream.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "fosil,batu-scream.wav",
+        "userAdded": true
+      },
+      {
+        "file": "coinhit.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "coinhit.wav",
+        "userAdded": true
+      },
+      {
+        "file": "sound3.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sound3.mp3",
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1374,12 +1423,386 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.13,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "dianaleft.png",
+                      "image": "jatuh1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jatuh1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2047,6 +2470,17 @@
                     "10"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "Player",
+                    "yes"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -2090,6 +2524,17 @@
                     "Player",
                     "+",
                     "10"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "Player",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -2203,6 +2648,20 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Scream+Female+2.wav",
+                    "",
+                    "70",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "Delete"
                   },
                   "parameters": [
@@ -2259,6 +2718,20 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Scream+Female+2.wav",
+                    "",
+                    "70",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
                 {
                   "type": {
                     "inverted": false,
@@ -2365,7 +2838,7 @@
             },
             {
               "disabled": false,
-              "folded": false,
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -2404,6 +2877,20 @@
                     "score",
                     "+",
                     "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "coinhit.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -2517,14 +3004,6 @@
               "disabled": false,
               "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
@@ -2600,14 +3079,6 @@
                     }
                   ],
                   "events": []
-                },
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [],
-                  "events": []
                 }
               ]
             },
@@ -2632,6 +3103,20 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "fosil,batu-scream.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
                 {
                   "type": {
                     "inverted": false,
@@ -2765,16 +3250,7 @@
                   "subInstructions": []
                 }
               ],
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [],
-                  "events": []
-                }
-              ]
+              "events": []
             },
             {
               "disabled": false,
@@ -3069,16 +3545,7 @@
                   "subInstructions": []
                 }
               ],
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [],
-                  "events": []
-                }
-              ]
+              "events": []
             },
             {
               "disabled": false,
@@ -3294,7 +3761,7 @@
               "parameters": [
                 "Player",
                 "=",
-                "0\n"
+                "1"
               ],
               "subInstructions": []
             }
@@ -3497,22 +3964,6 @@
           ],
           "actions": [],
           "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
-          "events": []
         }
       ],
       "layers": [
@@ -3553,8 +4004,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "New_32scene",
-      "name": "New scene",
+      "mangledName": "Game_32Over",
+      "name": "Game Over",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
@@ -3564,16 +4015,16 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridB": 255,
         "gridG": 180,
-        "gridHeight": 32,
+        "gridHeight": 50,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridR": 158,
-        "gridWidth": 32,
+        "gridWidth": 50,
         "snap": true,
-        "windowMask": false,
+        "windowMask": true,
         "zoomFactor": 0.3528
       },
       "objectsGroups": [],
@@ -3582,14 +4033,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 882,
+          "height": 1440,
           "layer": "",
           "locked": false,
-          "name": "BG",
+          "name": "BgLose",
           "persistentUuid": "7d4407cc-79a4-46ac-90ef-4dba6baa8b1d",
-          "width": 1219,
-          "x": -247,
-          "y": -90,
+          "width": 2000,
+          "x": -600,
+          "y": -435,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -3601,7 +4052,7 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "loosetext",
+          "name": "LoseText",
           "persistentUuid": "c70bf845-ca19-4e8f-ade4-242a83a1e34f",
           "width": 0,
           "x": 218,
@@ -3614,14 +4065,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 51,
+          "height": 100,
           "layer": "",
           "locked": false,
-          "name": "NewObject2",
+          "name": "RetryText",
           "persistentUuid": "53fd950e-46c8-437f-a0a0-db45525936fe",
-          "width": 123,
-          "x": 469,
-          "y": 232,
+          "width": 150,
+          "x": 456,
+          "y": 216,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -3630,14 +4081,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 99,
+          "height": 130,
           "layer": "",
           "locked": false,
           "name": "PlayButton",
           "persistentUuid": "623b9a86-e7fa-440c-869d-125a3f8b30ac",
-          "width": 134,
-          "x": 320,
-          "y": 218,
+          "width": 139,
+          "x": 300,
+          "y": 200,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -3652,9 +4103,25 @@
           "name": "BurgerMenuButton",
           "persistentUuid": "5c75105a-7350-407a-84af-9c06ee85fa05",
           "width": 140,
-          "x": 319,
-          "y": 367,
+          "x": 300,
+          "y": 365,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "MenuText",
+          "persistentUuid": "f6033fa4-8cda-493a-98ad-3af182c738a7",
+          "width": 0,
+          "x": 453,
+          "y": 402,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3663,7 +4130,7 @@
       "objects": [
         {
           "height": 32,
-          "name": "BG",
+          "name": "BgLose",
           "tags": "",
           "texture": "kerak lava.png",
           "type": "TiledSpriteObject::TiledSprite",
@@ -3672,29 +4139,9 @@
           "behaviors": []
         },
         {
-          "height": 32,
-          "name": "NewObject",
-          "tags": "",
-          "texture": "",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "behaviors": []
-        },
-        {
-          "height": 32,
-          "name": "NewObject4",
-          "tags": "",
-          "texture": "loops.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "behaviors": []
-        },
-        {
           "bold": true,
           "italic": false,
-          "name": "loosetext",
+          "name": "LoseText",
           "smoothed": true,
           "tags": "",
           "type": "TextObject::Text",
@@ -3711,48 +4158,28 @@
           }
         },
         {
-          "name": "pa",
+          "bold": false,
+          "italic": false,
+          "name": "MenuText",
+          "smoothed": true,
           "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
+          "type": "TextObject::Text",
+          "underlined": false,
           "variables": [],
           "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "loops.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "string": "Menu",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
         },
         {
           "bold": false,
           "italic": false,
-          "name": "NewObject2",
+          "name": "RetryText",
           "smoothed": true,
           "tags": "",
           "type": "TextObject::Text",
@@ -3872,7 +4299,7 @@
               },
               "parameters": [
                 "",
-                "BG",
+                "BgLose",
                 "yes",
                 "",
                 ""
@@ -3882,10 +4309,13 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Montre"
+                "value": "PlayMusic"
               },
               "parameters": [
-                "pa",
+                "",
+                "sound3.mp3",
+                "",
+                "",
                 ""
               ],
               "subInstructions": []
@@ -4015,8 +4445,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "New_32scene2",
-      "name": "New scene2",
+      "mangledName": "Intro",
+      "name": "Intro",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
@@ -4495,7 +4925,7 @@
               },
               "parameters": [
                 "",
-                "2",
+                "4",
                 "\"co\""
               ],
               "subInstructions": []
@@ -4522,7 +4952,21 @@
               "parameters": [
                 "Helli",
                 "+",
-                "- 5"
+                "- 10"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "heli.wav",
+                "yes",
+                "2",
+                ""
               ],
               "subInstructions": []
             }
@@ -4720,16 +5164,16 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridB": 255,
         "gridG": 180,
-        "gridHeight": 32,
+        "gridHeight": 50,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridR": 158,
-        "gridWidth": 32,
+        "gridWidth": 50,
         "snap": true,
-        "windowMask": false,
+        "windowMask": true,
         "zoomFactor": 0.2854
       },
       "objectsGroups": [],
@@ -4738,14 +5182,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 800,
+          "height": 1100,
           "layer": "",
           "locked": false,
           "name": "NewObject",
           "persistentUuid": "51335852-f5ed-4eaa-a111-025ca44139f3",
-          "width": 1016,
-          "x": -107,
-          "y": -83,
+          "width": 1500,
+          "x": -350,
+          "y": -250,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -4753,14 +5197,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 100,
           "layer": "",
           "locked": false,
           "name": "Title",
           "persistentUuid": "e681fa1c-4afa-43b6-b876-cf5f7ff9ff5b",
-          "width": 0,
-          "x": 49,
+          "width": 700,
+          "x": 63,
           "y": 26,
           "zOrder": 2,
           "numberProperties": [],
@@ -4776,8 +5220,8 @@
           "name": "XButton",
           "persistentUuid": "c696f6e7-9059-43ea-8269-ed5dcdc885af",
           "width": 157,
-          "x": 530,
-          "y": 308,
+          "x": 550,
+          "y": 288,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -4795,6 +5239,38 @@
           "x": 107,
           "y": 288,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "PlayText",
+          "persistentUuid": "03dd2f86-6a90-484c-b362-052536fcd542",
+          "width": 0,
+          "x": 129,
+          "y": 450,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ExitText",
+          "persistentUuid": "2fae40bc-9e95-407d-a09c-ce5fcf2c1757",
+          "width": 0,
+          "x": 519,
+          "y": 452,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4821,7 +5297,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Into The Earth ",
+          "string": "Into The Earth",
           "font": "",
           "characterSize": 100,
           "color": {
@@ -4872,7 +5348,7 @@
         {
           "bold": true,
           "italic": false,
-          "name": "NewObject3",
+          "name": "PlayText",
           "smoothed": true,
           "tags": "",
           "type": "TextObject::Text",
@@ -4883,9 +5359,9 @@
           "font": "",
           "characterSize": 48,
           "color": {
-            "b": 33,
-            "g": 211,
-            "r": 126
+            "b": 28,
+            "g": 231,
+            "r": 248
           }
         },
         {
@@ -4967,6 +5443,25 @@
           ]
         },
         {
+          "bold": true,
+          "italic": false,
+          "name": "ExitText",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Exit Game",
+          "font": "",
+          "characterSize": 48,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
           "name": "PlayButton",
           "tags": "",
           "type": "Sprite",
@@ -5037,6 +5532,20 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "sound_pembuka.mp3",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -5079,7 +5588,7 @@
               },
               "parameters": [
                 "",
-                "\"Game\"",
+                "\"Intro\"",
                 ""
               ],
               "subInstructions": []
