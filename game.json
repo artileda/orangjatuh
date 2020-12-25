@@ -1892,9 +1892,9 @@
                   "parameters": [
                     "",
                     "Player",
-                    "-190",
+                    "-260",
                     "0",
-                    "845",
+                    "835",
                     "600",
                     "",
                     "",
@@ -2075,7 +2075,7 @@
                   "parameters": [
                     "JavascriptEnemyy",
                     "=",
-                    "Player.Y() - 200\n"
+                    "Player.Y() - 176\n"
                   ],
                   "subInstructions": []
                 },
@@ -2087,7 +2087,7 @@
                   "parameters": [
                     "JavascriptEnemyx",
                     "=",
-                    "Player.Y() -200\n"
+                    "Player.Y() - 177"
                   ],
                   "subInstructions": []
                 },
@@ -2099,7 +2099,7 @@
                   "parameters": [
                     "JavascriptEnemyy",
                     "=",
-                    "-215"
+                    "-315"
                   ],
                   "subInstructions": []
                 },
@@ -2111,7 +2111,7 @@
                   "parameters": [
                     "JavascriptEnemyx",
                     "=",
-                    "794"
+                    "784"
                   ],
                   "subInstructions": []
                 }
@@ -4437,7 +4437,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.2854
+        "zoomFactor": 0.2826
       },
       "objectsGroups": [],
       "variables": [],
@@ -4445,14 +4445,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 800,
+          "height": 932,
           "layer": "",
           "locked": false,
           "name": "NewObject",
           "persistentUuid": "51335852-f5ed-4eaa-a111-025ca44139f3",
-          "width": 1016,
-          "x": -107,
-          "y": -83,
+          "width": 1690,
+          "x": -390,
+          "y": -147,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -4467,8 +4467,8 @@
           "name": "Title",
           "persistentUuid": "e681fa1c-4afa-43b6-b876-cf5f7ff9ff5b",
           "width": 0,
-          "x": 49,
-          "y": 26,
+          "x": 91,
+          "y": 128,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4483,8 +4483,8 @@
           "name": "XButton",
           "persistentUuid": "c696f6e7-9059-43ea-8269-ed5dcdc885af",
           "width": 157,
-          "x": 530,
-          "y": 308,
+          "x": 548,
+          "y": 368,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -4499,8 +4499,8 @@
           "name": "PlayButton",
           "persistentUuid": "1a65f04b-c348-438f-a41d-519c241b0989",
           "width": 153,
-          "x": 107,
-          "y": 288,
+          "x": 118,
+          "y": 362,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
