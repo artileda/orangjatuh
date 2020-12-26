@@ -1217,6 +1217,184 @@
         "metadata": "",
         "name": "sound3.mp3",
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pause button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pause button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Line Dark/Pause button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pause button2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pause button.png2",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Flat Dark/Pause button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pause button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Pause button.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Play button4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Play button.png3",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Line Dark/Play button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/X button2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "X button.png2",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Line Dark/X button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Play button4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Play button4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/X button2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\X button2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Adventure.otf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Adventure.otf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Burger menu button2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Burger menu button.png2",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Line Dark/Burger menu button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Burger menu button2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Burger menu button2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Close button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Close button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Flat Dark/Close button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Close button2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Close button.png2",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Flat Light/Close button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Close button3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Close button.png3",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Line Dark/Close button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Close button3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Close button3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Close button4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Close button.png4",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Shaded Dark/Close button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Close button4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Close button4.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1254,7 +1432,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.4238
+        "zoomFactor": 0.6398
       },
       "objectsGroups": [],
       "variables": [
@@ -1356,6 +1534,22 @@
           "x": -374,
           "y": -307,
           "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "PauseButton",
+          "persistentUuid": "6a805ab4-eb58-44b1-8c68-f944d8462eaa",
+          "width": 0,
+          "x": 676,
+          "y": 12,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2322,6 +2516,74 @@
               ]
             }
           ]
+        },
+        {
+          "name": "PauseButton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Pause button.png2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Pause button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -2394,7 +2656,7 @@
                   "parameters": [
                     "Scroex",
                     "=",
-                    "300\n",
+                    "-230\n",
                     "=",
                     "Player.Y() - 150"
                   ],
@@ -2423,6 +2685,20 @@
                     "Player.Y() + 122",
                     "",
                     ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "PauseButton",
+                    "=",
+                    "750\n",
+                    "=",
+                    "Player.Y() - 150"
                   ],
                   "subInstructions": []
                 }
@@ -2535,6 +2811,107 @@
                   "parameters": [
                     "Player",
                     ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "PauseButton",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "PauseButton",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "PauseButton",
+                    "+",
+                    "4"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Pause\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Pause\""
                   ],
                   "subInstructions": []
                 }
@@ -2689,7 +3066,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"New scene\"",
+                    "\"Game Over\"",
                     "yes"
                   ],
                   "subInstructions": []
@@ -2762,7 +3139,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"New scene\"",
+                    "\"Game Over\"",
                     "yes"
                   ],
                   "subInstructions": []
@@ -3147,7 +3524,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"New scene\"",
+                    "\"Game Over\"",
                     "yes"
                   ],
                   "subInstructions": []
@@ -3193,7 +3570,7 @@
                   },
                   "parameters": [
                     "",
-                    "RandomInRange(50,100)",
+                    "RandomInRange(12,600)",
                     "\"xx\""
                   ],
                   "subInstructions": []
@@ -3222,7 +3599,7 @@
                   "parameters": [
                     "Enemy",
                     "=",
-                    "128"
+                    "60"
                   ],
                   "subInstructions": []
                 },
@@ -3234,7 +3611,7 @@
                   "parameters": [
                     "Enemy",
                     "=",
-                    "128"
+                    "60"
                   ],
                   "subInstructions": []
                 },
@@ -3257,18 +3634,6 @@
               "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Timer"
-                  },
-                  "parameters": [
-                    "",
-                    "RandomInRange(30,300)",
-                    "\"xx\""
-                  ],
-                  "subInstructions": []
-                },
                 {
                   "type": {
                     "inverted": false,
@@ -3280,6 +3645,18 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Timer"
+                  },
+                  "parameters": [
+                    "",
+                    "RandomInRange(10,300)",
+                    "\"xx\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "actions": [
@@ -3305,7 +3682,7 @@
                   "parameters": [
                     "Enemy",
                     "=",
-                    "64"
+                    "60"
                   ],
                   "subInstructions": []
                 },
@@ -3317,7 +3694,7 @@
                   "parameters": [
                     "Enemy",
                     "=",
-                    "64\n"
+                    "60\n"
                   ],
                   "subInstructions": []
                 },
@@ -3340,18 +3717,6 @@
               "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Timer"
-                  },
-                  "parameters": [
-                    "",
-                    "RandomInRange(120,300)",
-                    "\"xx\""
-                  ],
-                  "subInstructions": []
-                },
                 {
                   "type": {
                     "inverted": false,
@@ -3363,6 +3728,18 @@
                     "2"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Timer"
+                  },
+                  "parameters": [
+                    "",
+                    "RandomInRange(10,300)",
+                    "\"xx\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "actions": [
@@ -3388,7 +3765,7 @@
                   "parameters": [
                     "Enemy",
                     "=",
-                    "64"
+                    "60"
                   ],
                   "subInstructions": []
                 },
@@ -3400,7 +3777,7 @@
                   "parameters": [
                     "Enemy",
                     "=",
-                    "64\n"
+                    "60\n"
                   ],
                   "subInstructions": []
                 },
@@ -3430,7 +3807,7 @@
                   },
                   "parameters": [
                     "",
-                    "RandomInRange(10,100)",
+                    "RandomInRange(15,600)",
                     "\"xx\""
                   ],
                   "subInstructions": []
@@ -3443,7 +3820,7 @@
                   "parameters": [
                     "score",
                     ">",
-                    "500"
+                    "10"
                   ],
                   "subInstructions": []
                 }
@@ -3471,7 +3848,7 @@
                   "parameters": [
                     "DeathEnemy",
                     "=",
-                    "128"
+                    "60"
                   ],
                   "subInstructions": []
                 },
@@ -3483,7 +3860,7 @@
                   "parameters": [
                     "DeathEnemy",
                     "=",
-                    "128"
+                    "60"
                   ],
                   "subInstructions": []
                 },
@@ -3559,6 +3936,64 @@
                   },
                   "parameters": [
                     "score",
+                    "=",
+                    "300"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::Gravity"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject",
+                    "+",
+                    "1.4"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"xx\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "score",
+                    "+",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "score",
                     ">",
                     "10000"
                   ],
@@ -3587,6 +4022,64 @@
                     "Enemy",
                     "=",
                     "2"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "score",
+                    "=",
+                    "10000"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"xx\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::Gravity"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject",
+                    "+",
+                    "1.9"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "score",
+                    "+",
+                    "1"
                   ],
                   "subInstructions": []
                 }
@@ -3651,6 +4144,64 @@
                   },
                   "parameters": [
                     "score",
+                    "=",
+                    "35000\n"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"xx\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::Gravity"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject",
+                    "+",
+                    "2.0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "score",
+                    "+",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "score",
                     ">",
                     "95000"
                   ],
@@ -3693,12 +4244,12 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Timer"
+                    "value": "VarGlobal"
                   },
                   "parameters": [
-                    "",
-                    "RandomInRange(70,GlobalVariable(score) / 2)",
-                    "\"xx\""
+                    "score",
+                    "=",
+                    "95000"
                   ],
                   "subInstructions": []
                 }
@@ -3707,25 +4258,36 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Create"
+                    "value": "ResetTimer"
                   },
                   "parameters": [
                     "",
-                    "DeathEnemy",
-                    "RandomInRange(Player.X()-400,Player.X() + 400)",
-                    "RandomInRange(Player.Y() + 200,Player.Y() - 210)",
-                    "\"\""
+                    "\"xx\""
                   ],
                   "subInstructions": []
                 },
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Montre"
+                    "value": "PlatformBehavior::Gravity"
                   },
                   "parameters": [
-                    "DeathEnemy",
-                    ""
+                    "Player",
+                    "PlatformerObject",
+                    "+",
+                    "2.3"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "score",
+                    "+",
+                    "1"
                   ],
                   "subInstructions": []
                 }
@@ -3780,7 +4342,7 @@
               },
               "parameters": [
                 "",
-                "4",
+                "2",
                 "\"Spawner\""
               ],
               "subInstructions": []
@@ -3964,6 +4526,72 @@
           ],
           "actions": [],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Rotate"
+              },
+              "parameters": [
+                "Enemy",
+                "120",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Rotate"
+              },
+              "parameters": [
+                "DeathEnemy",
+                "120",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::Gravity"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject",
+                "=",
+                "9.7\n"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -4065,14 +4693,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 100,
+          "height": 50,
           "layer": "",
           "locked": false,
           "name": "RetryText",
           "persistentUuid": "53fd950e-46c8-437f-a0a0-db45525936fe",
-          "width": 150,
-          "x": 456,
-          "y": 216,
+          "width": 250,
+          "x": 387,
+          "y": 215,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -4081,12 +4709,12 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 130,
+          "height": 64,
           "layer": "",
           "locked": false,
           "name": "PlayButton",
           "persistentUuid": "623b9a86-e7fa-440c-869d-125a3f8b30ac",
-          "width": 139,
+          "width": 64,
           "x": 300,
           "y": 200,
           "zOrder": 5,
@@ -4097,14 +4725,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 135,
+          "height": 64,
           "layer": "",
           "locked": false,
           "name": "BurgerMenuButton",
           "persistentUuid": "5c75105a-7350-407a-84af-9c06ee85fa05",
-          "width": 140,
+          "width": 64,
           "x": 300,
-          "y": 365,
+          "y": 300,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -4119,8 +4747,8 @@
           "name": "MenuText",
           "persistentUuid": "f6033fa4-8cda-493a-98ad-3af182c738a7",
           "width": 0,
-          "x": 453,
-          "y": 402,
+          "x": 387,
+          "y": 313,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -4158,7 +4786,7 @@
           }
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "MenuText",
           "smoothed": true,
@@ -4177,7 +4805,7 @@
           }
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "RetryText",
           "smoothed": true,
@@ -4231,6 +4859,35 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Play button4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -4253,6 +4910,35 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "Burger menu button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Burger menu button2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4357,6 +5043,30 @@
             {
               "type": {
                 "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "PlayButton",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "PlayButton",
+                "+",
+                "4"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
                 "value": "Scene"
               },
               "parameters": [
@@ -4400,6 +5110,30 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "BurgerMenuButton",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "BurgerMenuButton",
+                "+",
+                "4"
+              ],
+              "subInstructions": []
+            },
             {
               "type": {
                 "inverted": false,
@@ -5164,7 +5898,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridB": 255,
         "gridG": 180,
         "gridHeight": 50,
@@ -5172,9 +5906,9 @@
         "gridOffsetY": 0,
         "gridR": 158,
         "gridWidth": 50,
-        "snap": true,
+        "snap": false,
         "windowMask": true,
-        "zoomFactor": 0.2854
+        "zoomFactor": 0.4054
       },
       "objectsGroups": [],
       "variables": [],
@@ -5198,13 +5932,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 100,
+          "height": 107,
           "layer": "",
           "locked": false,
           "name": "Title",
           "persistentUuid": "e681fa1c-4afa-43b6-b876-cf5f7ff9ff5b",
-          "width": 700,
-          "x": 63,
+          "width": 705,
+          "x": 52,
           "y": 26,
           "zOrder": 2,
           "numberProperties": [],
@@ -5214,12 +5948,12 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 157,
+          "height": 130,
           "layer": "",
           "locked": false,
           "name": "XButton",
           "persistentUuid": "c696f6e7-9059-43ea-8269-ed5dcdc885af",
-          "width": 157,
+          "width": 130,
           "x": 550,
           "y": 288,
           "zOrder": 7,
@@ -5230,12 +5964,12 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 150,
+          "height": 130,
           "layer": "",
           "locked": false,
           "name": "PlayButton",
           "persistentUuid": "1a65f04b-c348-438f-a41d-519c241b0989",
-          "width": 153,
+          "width": 130,
           "x": 107,
           "y": 288,
           "zOrder": 8,
@@ -5297,9 +6031,9 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Into The Earth",
-          "font": "",
-          "characterSize": 100,
+          "string": "火 Into The Earth 火",
+          "font": "Adventure.otf",
+          "characterSize": 80,
           "color": {
             "b": 255,
             "g": 255,
@@ -5382,7 +6116,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "X button.png",
+                      "image": "assets\\Close button4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5400,28 +6134,18 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "XButton2",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
+            },
             {
               "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "X button.png",
+                      "image": "assets\\Close button3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5497,6 +6221,74 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Play button4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CloseButton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Close button.png4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -5522,20 +6314,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "CentreCamera"
-              },
-              "parameters": [
-                "",
-                "NewObject",
-                "yes",
-                "\"\"",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "PlayMusic"
               },
               "parameters": [
@@ -5543,6 +6321,20 @@
                 "sound_pembuka.mp3",
                 "",
                 "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "NewObject",
+                "yes",
+                "\"\"",
                 ""
               ],
               "subInstructions": []
@@ -5581,6 +6373,30 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "PlayButton",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "PlayButton",
+                "+",
+                "4"
+              ],
+              "subInstructions": []
+            },
             {
               "type": {
                 "inverted": false,
@@ -5630,6 +6446,30 @@
             {
               "type": {
                 "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "XButton",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "XButton",
+                "+",
+                "4"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
                 "value": "Quit"
               },
               "parameters": [
@@ -5646,6 +6486,529 @@
           "ambientLightColorB": 1936682880,
           "ambientLightColorG": 0,
           "ambientLightColorR": 6857000,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Pause",
+      "name": "Pause",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "Pause",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 1
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 960,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "ee4535a5-4b7a-4f11-8d6e-33c1f9b3a328",
+          "width": 1504,
+          "x": -352,
+          "y": -160,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "PlayButton",
+          "persistentUuid": "93a286ac-b991-4c35-97f0-bc122b7b943b",
+          "width": 64,
+          "x": 279,
+          "y": 224,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "GamePaused",
+          "persistentUuid": "bbe4d207-404e-4e1d-8140-8a2237934064",
+          "width": 416,
+          "x": 196,
+          "y": 94,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Resume",
+          "persistentUuid": "ba106450-8930-4bf0-abef-b2129dbb5461",
+          "width": 0,
+          "x": 360,
+          "y": 232,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "CloseButton",
+          "persistentUuid": "fea33ea1-e25c-4024-89fa-7fb8fa4bc340",
+          "width": 64,
+          "x": 280,
+          "y": 319,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ExitGame",
+          "persistentUuid": "251f80f2-86e6-4f48-bc0e-9d20cbbdcb55",
+          "width": 0,
+          "x": 361,
+          "y": 329,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "height": 32,
+          "name": "NewObject",
+          "tags": "",
+          "texture": "tanah batu.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "PlayButton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Play button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Play button4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "GamePaused",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Game Paused",
+          "font": "",
+          "characterSize": 60,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "Resume",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Resume",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
+          "name": "CloseButton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Close button.png2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Close button3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "ExitGame",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Exit",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "PlayButton",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Resume",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "PlayButton",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "PlayButton",
+                "+",
+                "4"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Game\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "CloseButton",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "ExitGame",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "CloseButton",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "CloseButton",
+                "+",
+                "4"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Quit"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 0,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 0,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "",
