@@ -2549,6 +2549,38 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Pause\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "PlatformBehavior::IsFalling"
                   },
                   "parameters": [
@@ -3193,7 +3225,7 @@
                   },
                   "parameters": [
                     "",
-                    "RandomInRange(10,100)",
+                    "RandomInRange(10,600)",
                     "\"xx\""
                   ],
                   "subInstructions": []
@@ -3430,7 +3462,7 @@
                   },
                   "parameters": [
                     "",
-                    "RandomInRange(10,100)",
+                    "RandomInRange(10,600)",
                     "\"xx\""
                   ],
                   "subInstructions": []
@@ -3443,7 +3475,7 @@
                   "parameters": [
                     "score",
                     ">",
-                    "50"
+                    "300"
                   ],
                   "subInstructions": []
                 }
@@ -3471,7 +3503,7 @@
                   "parameters": [
                     "DeathEnemy",
                     "=",
-                    "128"
+                    "64"
                   ],
                   "subInstructions": []
                 },
@@ -3483,7 +3515,7 @@
                   "parameters": [
                     "DeathEnemy",
                     "=",
-                    "128"
+                    "64"
                   ],
                   "subInstructions": []
                 },
@@ -3569,11 +3601,13 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "ResetTimer"
+                    "value": "PlatformBehavior::Gravity"
                   },
                   "parameters": [
-                    "",
-                    "\"xx\""
+                    "Player",
+                    "PlatformerObject",
+                    "+",
+                    "1.4"
                   ],
                   "subInstructions": []
                 }
@@ -3653,6 +3687,19 @@
                   "parameters": [
                     "",
                     "\"xx\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::Gravity"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject",
+                    "+",
+                    "1.9"
                   ],
                   "subInstructions": []
                 }
@@ -3734,6 +3781,19 @@
                     "\"xx\""
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::Gravity"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject",
+                    "+",
+                    "2.0"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -3813,6 +3873,19 @@
                     "\"xx\""
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::Gravity"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject",
+                    "+",
+                    "2.3"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -3821,47 +3894,8 @@
               "disabled": false,
               "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Timer"
-                  },
-                  "parameters": [
-                    "",
-                    "RandomInRange(70,GlobalVariable(score) / 2)",
-                    "\"xx\""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "DeathEnemy",
-                    "RandomInRange(Player.X()-400,Player.X() + 400)",
-                    "RandomInRange(Player.Y() + 200,Player.Y() - 210)",
-                    "\"\""
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Montre"
-                  },
-                  "parameters": [
-                    "DeathEnemy",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
+              "conditions": [],
+              "actions": [],
               "events": []
             }
           ],
@@ -4095,6 +4129,84 @@
             }
           ],
           "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Rotate"
+              },
+              "parameters": [
+                "Enemy",
+                "120",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Rotate"
+              },
+              "parameters": [
+                "DeathEnemy",
+                "120",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::Gravity"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject",
+                "=",
+                "9.7\n"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "+",
+                "310"
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],
@@ -5778,6 +5890,193 @@
           "ambientLightColorB": 1936682880,
           "ambientLightColorG": 0,
           "ambientLightColorR": 6857000,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Pause",
+      "name": "Pause",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "Pause",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 1
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 614,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "ee4535a5-4b7a-4f11-8d6e-33c1f9b3a328",
+          "width": 820,
+          "x": -7,
+          "y": -5,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 141,
+          "layer": "",
+          "locked": false,
+          "name": "PlayButton",
+          "persistentUuid": "93a286ac-b991-4c35-97f0-bc122b7b943b",
+          "width": 139,
+          "x": 346,
+          "y": 220,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "height": 32,
+          "name": "NewObject",
+          "tags": "",
+          "texture": "tanah batu.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "PlayButton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Play button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "PlayButton",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Game\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 0,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 0,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "",
