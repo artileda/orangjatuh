@@ -1395,6 +1395,28 @@
         "name": "assets\\Close button4.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue blank button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue blank button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/Interface/White/Blue blank button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue blank button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Blue blank button.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -5898,7 +5920,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridB": 255,
         "gridG": 180,
         "gridHeight": 50,
@@ -5906,7 +5928,7 @@
         "gridOffsetY": 0,
         "gridR": 158,
         "gridWidth": 50,
-        "snap": false,
+        "snap": true,
         "windowMask": true,
         "zoomFactor": 0.4054
       },
@@ -5954,8 +5976,8 @@
           "name": "XButton",
           "persistentUuid": "c696f6e7-9059-43ea-8269-ed5dcdc885af",
           "width": 130,
-          "x": 550,
-          "y": 288,
+          "x": 566,
+          "y": 297,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -5970,8 +5992,8 @@
           "name": "PlayButton",
           "persistentUuid": "1a65f04b-c348-438f-a41d-519c241b0989",
           "width": 130,
-          "x": 107,
-          "y": 288,
+          "x": 103,
+          "y": 299,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -5986,8 +6008,8 @@
           "name": "PlayText",
           "persistentUuid": "03dd2f86-6a90-484c-b362-052536fcd542",
           "width": 0,
-          "x": 129,
-          "y": 450,
+          "x": 127,
+          "y": 438,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -6002,8 +6024,8 @@
           "name": "ExitText",
           "persistentUuid": "2fae40bc-9e95-407d-a09c-ce5fcf2c1757",
           "width": 0,
-          "x": 519,
-          "y": 452,
+          "x": 538,
+          "y": 433,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -6091,7 +6113,7 @@
           "behaviors": [],
           "string": "Play",
           "font": "",
-          "characterSize": 48,
+          "characterSize": 40,
           "color": {
             "b": 28,
             "g": 231,
@@ -6178,7 +6200,7 @@
           "behaviors": [],
           "string": "Exit Game",
           "font": "",
-          "characterSize": 48,
+          "characterSize": 40,
           "color": {
             "b": 28,
             "g": 231,
@@ -6521,7 +6543,7 @@
       "title": "Pause",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridB": 255,
         "gridG": 180,
         "gridHeight": 32,
@@ -6530,8 +6552,8 @@
         "gridR": 158,
         "gridWidth": 32,
         "snap": true,
-        "windowMask": false,
-        "zoomFactor": 1
+        "windowMask": true,
+        "zoomFactor": 0.664
       },
       "objectsGroups": [],
       "variables": [],
@@ -7009,6 +7031,156 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 0,
           "ambientLightColorR": 0,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Setting",
+      "name": "Setting",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 1
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1275,
+          "layer": "",
+          "locked": false,
+          "name": "Bg",
+          "persistentUuid": "646ada92-5adb-425f-9ec9-7f8655876150",
+          "width": 1444,
+          "x": -327,
+          "y": -280,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 506,
+          "layer": "",
+          "locked": false,
+          "name": "BlueBlankButton",
+          "persistentUuid": "61fe27cd-c9ff-4b4f-9f20-85f0c9d38cd3",
+          "width": 581,
+          "x": 128,
+          "y": 49,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "height": 32,
+          "name": "Bg",
+          "tags": "",
+          "texture": "tanah pasir.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "NewObject",
+          "tags": "",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "BlueBlankButton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Blueblankbutton",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Blue blank button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 8380088,
+          "ambientLightColorG": 8403240,
+          "ambientLightColorR": 7262488,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "",
